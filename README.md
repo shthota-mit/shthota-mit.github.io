@@ -1,2 +1,2 @@
 # shthota.github.io
-website
+GitHub website
